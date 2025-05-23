@@ -43,31 +43,23 @@ career-recommendation-system/
 ┣ 📄 requirements.txt
 ┗ 📄 README.md
 
-yaml
-Copy code
-
----
 
 ## 🛠️ Installation & Usage
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/your-username/career-recommendation-system.git
 cd career-recommendation-system
+
 2. Install dependencies
 Make sure Python 3.7+ is installed. Then run:
-
-bash
-Copy code
 pip install -r requirements.txt
+
 3. Train the model
-bash
-Copy code
 python train_model.py
+
 4. Run the Streamlit app
-bash
-Copy code
 streamlit run app.py
+
 🧪 Sample Inputs
 Skills: Python, ML, Data Analysis
 
@@ -79,9 +71,9 @@ Education: Bachelors
 
 Experience: 2 years
 
+
 📊 Output Example
-yaml
-Copy code
+ 
 🎯 Data Scientist — Confidence: 105.0%
 📚 Academic Researcher — Confidence: 3.0%
 🔧 Graphic Designer — Confidence: 3.0%
@@ -99,8 +91,6 @@ Naveen C Gundapalli
 Computer Science Student
 Jain College of Engineering and Technology, Hubballi
 
-yaml
-Copy code
-
+ 
 ---
-`https://github.com/your-username/career-recommendation-system.git` with your
+`https://github.com/your-username/career-recommendation-system.git` with your actual GitHub repository URL. Let me know if you'd like badges (e.g., license, deployment, built with) or a demo GIF added to the README.
