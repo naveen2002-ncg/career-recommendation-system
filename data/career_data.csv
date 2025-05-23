@@ -1,0 +1,151 @@
+Name,Skills,Interests,Education_Level,Recommended_Career,Experience,Certifications,Preferred_Industry
+User_Da_729,SQL;Statistics;Python,Problem Solving,Bachelors,Data Scientist,2,SQL,Finance
+User_Da_730,ML;Python;SQL;Statistics,Problem Solving,PhD,Data Scientist,5,Python Certification;SQL,Healthcare
+User_Da_813,SQL;Statistics;Python,Problem Solving,Bachelors,Data Scientist,10,SQL;Power BI,Finance
+User_Da_390,SQL;ML;Python;Statistics,Problem Solving,PhD,Data Scientist,3,SQL;Python Certification,Finance
+User_Da_600,Python;Data Analysis;ML,Problem Solving,Bachelors,Data Scientist,5,Python Certification;SQL,Finance
+User_Da_382,SQL;Python;ML;Data Analysis,Problem Solving,Masters,Data Scientist,6,Python Certification;SQL,Healthcare
+User_Da_501,Data Analysis;SQL;Statistics,Problem Solving,Masters,Data Scientist,1,Python Certification;Power BI,Finance
+User_Da_662,ML;Python;Data Analysis,Problem Solving,Masters,Data Scientist,5,Power BI,Finance
+User_Da_286,Statistics;Python;SQL;Data Analysis;ML,Problem Solving,Masters,Data Scientist,9,Python Certification,Healthcare
+User_Da_891,Statistics;Data Analysis;ML,Problem Solving,PhD,Data Scientist,7,SQL,IT
+User_Da_542,ML;Statistics;SQL;Python;Data Analysis,Problem Solving,Bachelors,Data Scientist,4,Python Certification;SQL,IT
+User_Da_588,ML;Statistics;Data Analysis;SQL,Problem Solving,Bachelors,Data Scientist,7,Python Certification;SQL,Healthcare
+User_Da_295,ML;Python;Statistics;SQL,Problem Solving,PhD,Data Scientist,5,Power BI,Healthcare
+User_Da_282,ML;Python;Data Analysis;Statistics;SQL,Problem Solving,Masters,Data Scientist,9,Power BI,Finance
+User_Da_367,SQL;Python;Statistics;Data Analysis,Problem Solving,Bachelors,Data Scientist,2,Power BI,Finance
+User_Da_962,ML;Statistics;Data Analysis;Python;SQL,Problem Solving,Bachelors,Data Scientist,9,Power BI;Python Certification,Healthcare
+User_Da_820,SQL;ML;Data Analysis;Python,Problem Solving,Masters,Data Scientist,1,Python Certification;Power BI,IT
+User_Da_348,Data Analysis;ML;Statistics;SQL,Problem Solving,PhD,Data Scientist,4,Power BI;SQL,Finance
+User_Da_320,SQL;ML;Python;Data Analysis;Statistics,Problem Solving,Masters,Data Scientist,0,Power BI;Python Certification,IT
+User_Da_375,Statistics;ML;Data Analysis;SQL,Problem Solving,Masters,Data Scientist,1,Python Certification,IT
+User_Da_814,Python;Statistics;ML;SQL;Data Analysis,Problem Solving,PhD,Data Scientist,8,Power BI,Finance
+User_Da_463,SQL;ML;Statistics,Problem Solving,PhD,Data Scientist,2,Power BI,Finance
+User_Da_323,Python;Statistics;ML;SQL,Problem Solving,Bachelors,Data Scientist,7,Power BI;SQL,Finance
+User_Da_499,ML;SQL;Python,Problem Solving,PhD,Data Scientist,1,Python Certification,Healthcare
+User_Da_151,Data Analysis;Python;Statistics,Problem Solving,PhD,Data Scientist,8,SQL,Finance
+User_Da_630,SQL;Data Analysis;ML;Python,Problem Solving,PhD,Data Scientist,10,SQL,Healthcare
+User_Da_980,ML;Python;SQL,Problem Solving,Bachelors,Data Scientist,9,Power BI,Finance
+User_Da_791,Data Analysis;ML;Python,Problem Solving,Bachelors,Data Scientist,0,Python Certification,Finance
+User_Da_753,Python;SQL;Data Analysis;Statistics;ML,Problem Solving,PhD,Data Scientist,2,SQL,IT
+User_Da_149,Python;Data Analysis;ML;SQL,Problem Solving,Masters,Data Scientist,10,SQL;Power BI,Finance
+User_Di_632,SEO;Creativity;Communication;Social Media,Marketing,Masters,Digital Marketer,6,SEO,Marketing
+User_Di_979,Creativity;Social Media;Analytics;Communication,Marketing,Masters,Digital Marketer,10,Digital Marketing,Media
+User_Di_391,SEO;Analytics;Creativity;Communication;Social Media,Marketing,PhD,Digital Marketer,4,Digital Marketing,Media
+User_Di_204,SEO;Analytics;Communication,Marketing,Bachelors,Digital Marketer,9,Google Ads;Digital Marketing,Media
+User_Di_783,SEO;Creativity;Analytics,Marketing,Bachelors,Digital Marketer,1,Google Ads;Digital Marketing,Retail
+User_Di_131,Social Media;SEO;Communication;Creativity,Marketing,Masters,Digital Marketer,6,Digital Marketing,Media
+User_Di_968,SEO;Creativity;Social Media;Communication;Analytics,Marketing,PhD,Digital Marketer,4,SEO,Media
+User_Di_114,Creativity;SEO;Analytics,Marketing,Bachelors,Digital Marketer,6,Google Ads,Retail
+User_Di_918,Analytics;Creativity;Communication;SEO;Social Media,Marketing,PhD,Digital Marketer,1,Digital Marketing,Retail
+User_Di_175,Social Media;SEO;Analytics;Communication;Creativity,Marketing,PhD,Digital Marketer,3,Digital Marketing,Marketing
+User_Di_717,Social Media;Communication;Analytics;Creativity;SEO,Marketing,PhD,Digital Marketer,9,SEO,Retail
+User_Di_945,Analytics;Communication;SEO;Creativity;Social Media,Marketing,Masters,Digital Marketer,4,Google Ads;Digital Marketing,Media
+User_Di_559,Creativity;Social Media;Analytics;SEO,Marketing,Masters,Digital Marketer,1,Google Ads,Retail
+User_Di_520,SEO;Communication;Creativity;Social Media;Analytics,Marketing,Masters,Digital Marketer,2,Digital Marketing,Retail
+User_Di_573,SEO;Creativity;Social Media;Communication,Marketing,Bachelors,Digital Marketer,8,SEO,Retail
+User_Di_684,Analytics;Communication;Social Media,Marketing,Masters,Digital Marketer,3,SEO,Marketing
+User_Di_627,SEO;Social Media;Analytics,Marketing,Bachelors,Digital Marketer,8,Google Ads;SEO,Retail
+User_Di_779,Communication;Social Media;Analytics;SEO,Marketing,Bachelors,Digital Marketer,9,Digital Marketing;SEO,Marketing
+User_Di_223,Communication;SEO;Analytics;Social Media,Marketing,Bachelors,Digital Marketer,3,Google Ads,Media
+User_Di_935,Creativity;SEO;Analytics;Social Media,Marketing,Masters,Digital Marketer,2,SEO,Marketing
+User_Di_289,Analytics;SEO;Social Media;Creativity,Marketing,Masters,Digital Marketer,9,Digital Marketing,Retail
+User_Di_538,SEO;Analytics;Communication,Marketing,Masters,Digital Marketer,0,SEO;Google Ads,Media
+User_Di_965,Creativity;SEO;Social Media;Analytics;Communication,Marketing,Bachelors,Digital Marketer,10,SEO;Digital Marketing,Retail
+User_Di_729,Analytics;SEO;Communication;Creativity,Marketing,Masters,Digital Marketer,7,Google Ads,Media
+User_Di_953,Analytics;Creativity;Social Media;SEO;Communication,Marketing,PhD,Digital Marketer,5,SEO;Google Ads,Retail
+User_Di_824,SEO;Creativity;Communication;Social Media;Analytics,Marketing,Masters,Digital Marketer,3,SEO,Retail
+User_Di_328,Creativity;Social Media;SEO,Marketing,Masters,Digital Marketer,2,SEO,Media
+User_Di_183,Creativity;Analytics;Communication,Marketing,Masters,Digital Marketer,1,SEO;Digital Marketing,Media
+User_Di_121,Creativity;Social Media;Analytics;SEO,Marketing,Bachelors,Digital Marketer,0,SEO,Marketing
+User_Di_162,Analytics;SEO;Social Media;Communication,Marketing,Masters,Digital Marketer,2,Digital Marketing;Google Ads,Media
+User_Em_668,RTOS;Embedded Systems;Hardware;C++;Microcontrollers,Engineering,PhD,Embedded Engineer,1,IoT,Manufacturing
+User_Em_432,RTOS;Embedded Systems;Microcontrollers;Hardware,Engineering,Masters,Embedded Engineer,5,C Programming;IoT,Manufacturing
+User_Em_283,Hardware;Microcontrollers;Embedded Systems,Engineering,Bachelors,Embedded Engineer,9,IoT,Manufacturing
+User_Em_149,Microcontrollers;Hardware;C++;Embedded Systems;RTOS,Engineering,Bachelors,Embedded Engineer,10,IoT,Manufacturing
+User_Em_408,C++;Hardware;Embedded Systems;Microcontrollers,Engineering,Bachelors,Embedded Engineer,6,Embedded Systems,Electronics
+User_Em_193,RTOS;Microcontrollers;Embedded Systems;Hardware;C++,Engineering,PhD,Embedded Engineer,0,IoT;Embedded Systems,Manufacturing
+User_Em_187,Microcontrollers;Hardware;C++,Engineering,Bachelors,Embedded Engineer,7,Embedded Systems;IoT,Manufacturing
+User_Em_911,Hardware;RTOS;Microcontrollers;C++;Embedded Systems,Engineering,PhD,Embedded Engineer,2,IoT,Automotive
+User_Em_142,C++;Hardware;RTOS;Microcontrollers;Embedded Systems,Engineering,Bachelors,Embedded Engineer,4,IoT;Embedded Systems,Manufacturing
+User_Em_568,Embedded Systems;RTOS;Hardware;Microcontrollers,Engineering,PhD,Embedded Engineer,7,C Programming;Embedded Systems,Manufacturing
+User_Em_975,Embedded Systems;RTOS;Microcontrollers;Hardware;C++,Engineering,Masters,Embedded Engineer,5,IoT,Automotive
+User_Em_622,RTOS;Microcontrollers;C++,Engineering,Bachelors,Embedded Engineer,3,Embedded Systems;IoT,Electronics
+User_Em_185,RTOS;Microcontrollers;Embedded Systems;Hardware,Engineering,PhD,Embedded Engineer,1,IoT;Embedded Systems,Automotive
+User_Em_915,Microcontrollers;C++;RTOS,Engineering,Bachelors,Embedded Engineer,4,IoT,Manufacturing
+User_Em_791,C++;Microcontrollers;Hardware,Engineering,PhD,Embedded Engineer,7,IoT,Automotive
+User_Em_273,Embedded Systems;Microcontrollers;C++;RTOS;Hardware,Engineering,Bachelors,Embedded Engineer,1,IoT,Electronics
+User_Em_590,Hardware;RTOS;C++;Embedded Systems,Engineering,Bachelors,Embedded Engineer,0,IoT,Electronics
+User_Em_657,Embedded Systems;RTOS;Microcontrollers;Hardware,Engineering,Masters,Embedded Engineer,7,IoT,Automotive
+User_Em_197,Hardware;C++;RTOS;Embedded Systems;Microcontrollers,Engineering,PhD,Embedded Engineer,1,IoT;Embedded Systems,Electronics
+User_Em_226,RTOS;Embedded Systems;C++;Hardware;Microcontrollers,Engineering,Bachelors,Embedded Engineer,4,IoT,Electronics
+User_Em_760,C++;RTOS;Hardware,Engineering,PhD,Embedded Engineer,4,Embedded Systems,Automotive
+User_Em_299,Embedded Systems;Microcontrollers;Hardware;RTOS;C++,Engineering,Masters,Embedded Engineer,2,C Programming;Embedded Systems,Manufacturing
+User_Em_811,Embedded Systems;RTOS;C++;Microcontrollers,Engineering,Bachelors,Embedded Engineer,0,C Programming,Manufacturing
+User_Em_469,Embedded Systems;RTOS;Microcontrollers,Engineering,Bachelors,Embedded Engineer,4,C Programming;IoT,Automotive
+User_Em_955,RTOS;Microcontrollers;Embedded Systems,Engineering,Bachelors,Embedded Engineer,9,IoT;Embedded Systems,Automotive
+User_Em_287,Embedded Systems;Microcontrollers;RTOS;C++,Engineering,Masters,Embedded Engineer,0,Embedded Systems;C Programming,Automotive
+User_Em_937,Microcontrollers;RTOS;C++;Embedded Systems,Engineering,Masters,Embedded Engineer,4,Embedded Systems,Electronics
+User_Em_203,Embedded Systems;RTOS;C++;Hardware;Microcontrollers,Engineering,Bachelors,Embedded Engineer,6,IoT;Embedded Systems,Automotive
+User_Em_166,Embedded Systems;Hardware;RTOS;C++;Microcontrollers,Engineering,Bachelors,Embedded Engineer,2,Embedded Systems;C Programming,Electronics
+User_Em_693,RTOS;Hardware;C++;Microcontrollers;Embedded Systems,Engineering,Masters,Embedded Engineer,6,C Programming,Electronics
+User_Ac_847,Data Collection;Presentation;Critical Thinking,Education,PhD,Academic Researcher,3,Research Methodology;Teaching Certificate,Education
+User_Ac_509,Research;Writing;Presentation,Education,Bachelors,Academic Researcher,3,Teaching Certificate;Research Methodology,Education
+User_Ac_994,Presentation;Research;Critical Thinking,Education,PhD,Academic Researcher,7,Teaching Certificate;Research Methodology,Social Science
+User_Ac_351,Presentation;Research;Critical Thinking;Data Collection;Writing,Education,Masters,Academic Researcher,8,Teaching Certificate,Social Science
+User_Ac_518,Writing;Research;Presentation,Education,PhD,Academic Researcher,6,PhD,Education
+User_Ac_575,Data Collection;Presentation;Critical Thinking,Education,PhD,Academic Researcher,2,Teaching Certificate,Education
+User_Ac_166,Writing;Critical Thinking;Data Collection,Education,Bachelors,Academic Researcher,2,Teaching Certificate;Research Methodology,Education
+User_Ac_741,Writing;Presentation;Data Collection;Research;Critical Thinking,Education,PhD,Academic Researcher,5,Teaching Certificate;Research Methodology,Academia
+User_Ac_282,Presentation;Data Collection;Critical Thinking;Research,Education,Masters,Academic Researcher,10,Research Methodology,Social Science
+User_Ac_679,Writing;Presentation;Critical Thinking;Research;Data Collection,Education,Masters,Academic Researcher,7,Research Methodology,Academia
+User_Ac_841,Critical Thinking;Data Collection;Writing;Presentation,Education,Masters,Academic Researcher,6,Research Methodology,Education
+User_Ac_671,Writing;Critical Thinking;Presentation;Research,Education,Bachelors,Academic Researcher,1,Teaching Certificate,Academia
+User_Ac_189,Research;Data Collection;Presentation;Writing,Education,Masters,Academic Researcher,10,PhD,Education
+User_Ac_445,Critical Thinking;Presentation;Data Collection;Writing;Research,Education,Masters,Academic Researcher,0,Research Methodology,Academia
+User_Ac_976,Writing;Research;Critical Thinking,Education,PhD,Academic Researcher,6,Teaching Certificate;PhD,Academia
+User_Ac_506,Research;Presentation;Writing,Education,PhD,Academic Researcher,9,Teaching Certificate;PhD,Academia
+User_Ac_404,Research;Data Collection;Writing;Critical Thinking,Education,Bachelors,Academic Researcher,7,Research Methodology;PhD,Social Science
+User_Ac_574,Research;Data Collection;Critical Thinking,Education,Bachelors,Academic Researcher,8,PhD,Academia
+User_Ac_394,Writing;Research;Presentation,Education,Bachelors,Academic Researcher,5,PhD;Teaching Certificate,Academia
+User_Ac_999,Data Collection;Writing;Research;Presentation;Critical Thinking,Education,PhD,Academic Researcher,3,PhD;Teaching Certificate,Education
+User_Ac_681,Writing;Research;Data Collection;Presentation;Critical Thinking,Education,PhD,Academic Researcher,9,Research Methodology,Education
+User_Ac_978,Data Collection;Writing;Presentation;Critical Thinking,Education,Bachelors,Academic Researcher,5,Research Methodology;PhD,Education
+User_Ac_851,Data Collection;Research;Critical Thinking;Writing;Presentation,Education,Bachelors,Academic Researcher,1,Research Methodology,Social Science
+User_Ac_331,Presentation;Writing;Data Collection;Research;Critical Thinking,Education,PhD,Academic Researcher,8,PhD;Research Methodology,Education
+User_Ac_503,Writing;Critical Thinking;Data Collection,Education,Masters,Academic Researcher,3,PhD;Teaching Certificate,Academia
+User_Ac_480,Writing;Presentation;Critical Thinking;Research,Education,Masters,Academic Researcher,0,Teaching Certificate,Education
+User_Ac_955,Research;Data Collection;Presentation;Writing;Critical Thinking,Education,Bachelors,Academic Researcher,4,Teaching Certificate,Academia
+User_Ac_377,Writing;Presentation;Critical Thinking;Research,Education,Masters,Academic Researcher,2,PhD,Academia
+User_Ac_135,Critical Thinking;Writing;Presentation,Education,Bachelors,Academic Researcher,4,Teaching Certificate;Research Methodology,Education
+User_Ac_597,Presentation;Writing;Research;Critical Thinking,Education,PhD,Academic Researcher,2,PhD,Academia
+User_Gr_818,Photoshop;Design;Creativity;Illustration;UI/UX,Art,Masters,Graphic Designer,5,Graphic Design;Adobe Photoshop,Media
+User_Gr_578,Creativity;Design;Illustration;Photoshop;UI/UX,Art,Masters,Graphic Designer,4,Adobe Photoshop;Illustrator,Design
+User_Gr_553,Creativity;UI/UX;Photoshop,Art,Bachelors,Graphic Designer,1,Adobe Photoshop,Advertising
+User_Gr_917,UI/UX;Photoshop;Creativity;Illustration,Art,Masters,Graphic Designer,2,Graphic Design,Advertising
+User_Gr_463,Photoshop;Illustration;Creativity;UI/UX,Art,Bachelors,Graphic Designer,8,Adobe Photoshop;Graphic Design,Advertising
+User_Gr_936,Creativity;Design;UI/UX;Photoshop,Art,PhD,Graphic Designer,10,Graphic Design;Illustrator,Advertising
+User_Gr_493,Creativity;Photoshop;UI/UX;Illustration;Design,Art,Masters,Graphic Designer,3,Graphic Design;Illustrator,Design
+User_Gr_779,UI/UX;Creativity;Photoshop;Illustration;Design,Art,Bachelors,Graphic Designer,2,Illustrator,Design
+User_Gr_569,UI/UX;Illustration;Design;Creativity;Photoshop,Art,Bachelors,Graphic Designer,0,Illustrator,Advertising
+User_Gr_587,UI/UX;Design;Illustration;Creativity;Photoshop,Art,Masters,Graphic Designer,10,Graphic Design,Design
+User_Gr_695,Photoshop;Creativity;Illustration;UI/UX,Art,Masters,Graphic Designer,4,Graphic Design,Design
+User_Gr_451,UI/UX;Illustration;Photoshop;Creativity,Art,Masters,Graphic Designer,9,Adobe Photoshop,Design
+User_Gr_574,UI/UX;Creativity;Photoshop;Design,Art,Bachelors,Graphic Designer,5,Graphic Design,Media
+User_Gr_135,Design;Illustration;UI/UX;Photoshop,Art,Bachelors,Graphic Designer,3,Illustrator,Media
+User_Gr_781,Illustration;UI/UX;Creativity;Design,Art,Bachelors,Graphic Designer,5,Illustrator,Design
+User_Gr_950,Creativity;Photoshop;Illustration;Design;UI/UX,Art,Bachelors,Graphic Designer,6,Illustrator;Graphic Design,Media
+User_Gr_888,Illustration;UI/UX;Photoshop;Design;Creativity,Art,Masters,Graphic Designer,10,Graphic Design,Advertising
+User_Gr_988,Illustration;UI/UX;Photoshop;Design;Creativity,Art,Masters,Graphic Designer,8,Graphic Design,Design
+User_Gr_124,Creativity;UI/UX;Photoshop;Illustration,Art,Bachelors,Graphic Designer,4,Adobe Photoshop;Illustrator,Design
+User_Gr_527,Design;Creativity;Photoshop;Illustration,Art,PhD,Graphic Designer,1,Adobe Photoshop;Illustrator,Advertising
+User_Gr_813,Illustration;UI/UX;Photoshop;Creativity,Art,PhD,Graphic Designer,3,Illustrator,Media
+User_Gr_312,Photoshop;Illustration;UI/UX,Art,Masters,Graphic Designer,9,Graphic Design;Illustrator,Design
+User_Gr_164,Photoshop;UI/UX;Design;Illustration;Creativity,Art,Masters,Graphic Designer,9,Adobe Photoshop,Advertising
+User_Gr_394,Creativity;UI/UX;Design;Illustration;Photoshop,Art,Bachelors,Graphic Designer,4,Illustrator,Design
+User_Gr_923,Photoshop;Design;Illustration;Creativity,Art,Masters,Graphic Designer,0,Adobe Photoshop;Graphic Design,Media
+User_Gr_665,Illustration;UI/UX;Design;Photoshop,Art,Masters,Graphic Designer,0,Illustrator,Media
+User_Gr_281,UI/UX;Design;Illustration;Creativity;Photoshop,Art,Masters,Graphic Designer,10,Graphic Design;Adobe Photoshop,Media
+User_Gr_103,Illustration;Creativity;Design;UI/UX,Art,PhD,Graphic Designer,4,Graphic Design;Adobe Photoshop,Advertising
+User_Gr_487,Photoshop;UI/UX;Illustration,Art,Masters,Graphic Designer,2,Illustrator;Graphic Design,Media
+User_Gr_562,Creativity;Photoshop;Illustration;UI/UX;Design,Art,Bachelors,Graphic Designer,1,Adobe Photoshop,Design
