@@ -1,5 +1,7 @@
 # 🎯 AI-Powered Career Recommendation System
 
+Out Put link🔗 : https://career-recommendation-system-pplxjcrg4xeg26stwbysij.streamlit.app/
+
 ## 🌟 Overview
 This project recommends suitable careers based on user-provided **skills**, **certifications**, **industry interests**, **education level**, and **work experience**. Built with machine learning, the system delivers **personalized** and **intelligent career suggestions**.
 
